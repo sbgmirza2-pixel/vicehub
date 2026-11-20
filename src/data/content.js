@@ -23,7 +23,7 @@ export const faqItems = [
   },
   {
     id: "what-is-in-game-social-feed",
-    tag: "Gameplay Feature",
+    tag: "Gameplay Features",
     question: "What is the in-game social media feed everyone keeps clipping?",
     answer:
       "Your phone has a live social feed where NPCs post short vertical clips of wild street moments, police chases, and bizarre neighborhood incidents. Even better, things you cause in free roam can actually show up on local feeds a few minutes later.",
