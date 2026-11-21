@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   name: "VICEHUB",
-  domain: "https://vicehub.pages.dev",
+  domain: "https://vicehub-three.vercel.app/",
   tagline: "GTA 6 Player Q&A, Short Clips & Practical Guides",
   description:
     "Straight answers to real GTA 6 player questions, bite-sized gameplay clips, and hands-on guides for exploring Leonida and Vice City without the fluff.",
@@ -23,7 +23,7 @@ export const faqItems = [
   },
   {
     id: "what-is-in-game-social-feed",
-    tag: "Gameplay Feature",
+    tag: "Gameplay Features",
     question: "What is the in-game social media feed everyone keeps clipping?",
     answer:
       "Your phone has a live social feed where NPCs post short vertical clips of wild street moments, police chases, and bizarre neighborhood incidents. Even better, things you cause in free roam can actually show up on local feeds a few minutes later.",
