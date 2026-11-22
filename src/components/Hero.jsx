@@ -3,14 +3,7 @@ import Image from "next/image";
 export default function Hero({ onQuickJump }) {
   return (
     <section className="relative overflow-hidden border-b border-zinc-800 bg-zinc-900 text-white">
-      <Image
-        src="/images/hero-gta6.jpg"
-        alt="GTA 6 Leonida and Vice City sunset skyline"
-        fill
-        priority
-        sizes="100vw"
-        className="object-cover object-center opacity-60"
-      />
+      
       <div className="absolute inset-0 bg-gradient-to-r from-zinc-950/95 via-zinc-950/75 to-zinc-950/45" />
 
       <div className="relative z-10 mx-auto max-w-6xl px-4 py-14 md:py-20">
