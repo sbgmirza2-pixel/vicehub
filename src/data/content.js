@@ -33,7 +33,7 @@ export const faqItems = [
     tag: "Beginner Tip",
     question: "What is the smartest way to spend your first few hours in the game?",
     answer:
-      "Don't rush straight from one main marker to the next. Unlock your early safe houses, test how different car classes handle wet roads versus highways, and knock out a couple of local side hustles so you have cash for basic gear and upgrades.",
+      "Don't rush straight from one main marker to the next. Unlock your early safe houses, test how different car classes handle wet roads versus highways, and knock out a couple of local sides hustles so you have cash for basic gear and upgrades.",
   },
   {
     id: "what-is-wanted-system-change",
